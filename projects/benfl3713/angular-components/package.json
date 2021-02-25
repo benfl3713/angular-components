@@ -1,0 +1,15 @@
+{
+  "name": "@benfl3713/angular-components",
+  "author": "Ben Fletcher",
+  "description": "Collection of components I use for my own projects",
+  "version": "0.0.2",
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^10.0.14",
+    "@angular/core": "^10.0.14",
+    "@angular/material": "^10.2.7"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}

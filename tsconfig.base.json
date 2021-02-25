@@ -1,4 +1,3 @@
-/* To learn more about this file see: https://angular.io/config/tsconfig. */
 {
   "compileOnSave": false,
   "compilerOptions": {
@@ -15,6 +14,12 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@benfl3713/angular-components": [
+        "dist/benfl3713/angular-components/benfl3713-angular-components",
+        "dist/benfl3713/angular-components"
+      ]
+    }
   }
 }

@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/benfl3713/angular-components/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/benfl3713/angular-components/tsconfig.spec.json"
+    }
+]
 }
